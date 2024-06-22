@@ -1,0 +1,31 @@
+.signinpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin: 3px auto 0;
+  position: relative;
+  background-image: url(https://miro.medium.com/v2/resize:fit:1013/1*J91VnSlNG-bRq2pjcQzcXg.png);
+
+}
+
+.signinbox {
+  border: 1px solid black; /*add a border around the form*/
+  padding: 20px; 
+  width: 400px; /*set the width of a form*/
+  background-color: #476c2f;
+  opacity: 0.8;
+  
+}
+
+.signinbox form {
+  color: black;
+  font-weight: bolder;
+}
+
+.signinbox h1 {
+  font-weight: bolder;
+}
+

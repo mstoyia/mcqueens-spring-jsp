@@ -1,0 +1,15 @@
+.homepage {
+    background-image: url(https://variety.com/wp-content/uploads/2016/06/cars.jpg?w=1000&h=563&crop=1);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 3px auto 0;
+    position: relative;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+    color: white
+}
+

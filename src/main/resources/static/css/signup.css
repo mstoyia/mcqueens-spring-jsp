@@ -1,0 +1,23 @@
+.signuppage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://static01.nyt.com/images/2006/06/09/arts/09cars.2.600.jpg?quality=75&auto=webp&disable=upscale);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin: 3px auto 0;
+  position: relative;
+}
+.signupbox {
+  border: 1px solid black; /*add a border around the form*/
+  padding: 20px; 
+  width: 400px; /*set the width of a form*/
+  background-color: #6c6a76;
+  opacity: 1.8;
+}
+
+
+
+
+

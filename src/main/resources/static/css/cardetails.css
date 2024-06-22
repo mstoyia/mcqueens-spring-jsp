@@ -1,0 +1,15 @@
+.cardetailpage {
+    height: 100vh;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url()
+}
+
+.cardetailpage img {
+    max-width: 60%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}

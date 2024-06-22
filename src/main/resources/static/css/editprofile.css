@@ -1,0 +1,19 @@
+.editprofilepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://cdn.vox-cdn.com/thumbor/zZoAiu108u_nJANa9GQq2pKaW5U=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68892629/cars_2.0.0.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 3px auto 0;
+    position: relative;
+}
+
+.editprofilebox {
+    border: 1px solid black; /*add a border around the form*/
+    padding: 20px; 
+    width: 400px; /*set the width of a form*/
+    background-color: #68545b;
+    opacity: 0.8;
+}

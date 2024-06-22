@@ -1,0 +1,32 @@
+.car-list {
+    display: flex; 
+    background-image: url(https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1470951916924-P0W0ABM165Q2JLRP7MMC/McQueen14.jpg);
+    /* background-size: cover;
+    height: 100vh; */
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 3px auto 0;
+    position: relative;
+}
+
+.car-items {
+    border: 1px solid;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #babacd;
+   
+}
+
+.car-items img {
+    max-width: 200px;
+    max-height: 200px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
